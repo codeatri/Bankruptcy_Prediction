@@ -1,0 +1,35 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas * openblas"
+  ],
+  "extracted_package_dir": "/Users/npatil4/miniconda3/pkgs/nomkl-3.0-0",
+  "features": "",
+  "files": [],
+  "fn": "nomkl-3.0-0.conda",
+  "legacy_bz2_md5": "d6fab0c8315628f7594ed7e0f23bb64d",
+  "legacy_bz2_size": 49116,
+  "license": "BSD",
+  "link": {
+    "source": "/Users/npatil4/miniconda3/pkgs/nomkl-3.0-0",
+    "type": 1
+  },
+  "md5": "5fd32ca439feda980a882524d756c062",
+  "name": "nomkl",
+  "package_tarball_full_path": "/Users/npatil4/miniconda3/pkgs/nomkl-3.0-0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "nomkl",
+  "sha256": "ca2f32ed848a972a2727efcecc2ec1e07245e2e9adb6c3b0981dc3fc43d873b9",
+  "size": 46266,
+  "subdir": "osx-64",
+  "timestamp": 1527877622890,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/nomkl-3.0-0.conda",
+  "version": "3.0"
+}

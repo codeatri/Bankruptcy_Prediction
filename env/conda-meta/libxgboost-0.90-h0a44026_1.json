@@ -1,0 +1,249 @@
+{
+  "build": "h0a44026_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1",
+    "llvm-openmp >=4.0.1"
+  ],
+  "extracted_package_dir": "/Users/npatil4/miniconda3/pkgs/libxgboost-0.90-h0a44026_1",
+  "features": "",
+  "files": [
+    "bin/xgboost",
+    "include/xgboost/base.h",
+    "include/xgboost/build_config.h",
+    "include/xgboost/c_api.h",
+    "include/xgboost/c_api_error.h",
+    "include/xgboost/data.h",
+    "include/xgboost/feature_map.h",
+    "include/xgboost/gbm.h",
+    "include/xgboost/learner.h",
+    "include/xgboost/linear_updater.h",
+    "include/xgboost/logging.h",
+    "include/xgboost/metric.h",
+    "include/xgboost/objective.h",
+    "include/xgboost/predictor.h",
+    "include/xgboost/rabit/c_api.h",
+    "include/xgboost/rabit/internal/engine.h",
+    "include/xgboost/rabit/internal/io.h",
+    "include/xgboost/rabit/internal/rabit-inl.h",
+    "include/xgboost/rabit/internal/timer.h",
+    "include/xgboost/rabit/internal/utils.h",
+    "include/xgboost/rabit/rabit.h",
+    "include/xgboost/rabit/serializable.h",
+    "include/xgboost/tree_model.h",
+    "include/xgboost/tree_updater.h",
+    "lib/libxgboost.a",
+    "lib/libxgboost.dylib"
+  ],
+  "fn": "libxgboost-0.90-h0a44026_1.conda",
+  "legacy_bz2_md5": "eca485e07940bf0106d990b25a5c95f3",
+  "legacy_bz2_size": 2474230,
+  "link": {
+    "source": "/Users/npatil4/miniconda3/pkgs/libxgboost-0.90-h0a44026_1",
+    "type": 1
+  },
+  "md5": "981a2dc61c04d3cbaab1f6cba10aeeab",
+  "name": "libxgboost",
+  "package_tarball_full_path": "/Users/npatil4/miniconda3/pkgs/libxgboost-0.90-h0a44026_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/xgboost",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/67255c98-4108-4a23-50ed-33dd288c551a/volume/xgboost_1572481444627/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "38d82c657f7d84216cb6149d8425ba2621c3887021fac792eb9d8c3872cfc3ec",
+        "sha256_in_prefix": "ec3c26ad1dc361c4a76445f8a5d53edd06ec50f42fe4ad2dc20a16134dba372b",
+        "size_in_bytes": 2450496
+      },
+      {
+        "_path": "include/xgboost/base.h",
+        "path_type": "hardlink",
+        "sha256": "1bc0d4012be248a598173efabd0ec3fa56834e0bb791f5bfd579da5394195a0b",
+        "sha256_in_prefix": "1bc0d4012be248a598173efabd0ec3fa56834e0bb791f5bfd579da5394195a0b",
+        "size_in_bytes": 6967
+      },
+      {
+        "_path": "include/xgboost/build_config.h",
+        "path_type": "hardlink",
+        "sha256": "2103c01b184a61c5ad0430c54b5f5cd8a33bdda990ae04ffe6a9c48357af8f54",
+        "sha256_in_prefix": "2103c01b184a61c5ad0430c54b5f5cd8a33bdda990ae04ffe6a9c48357af8f54",
+        "size_in_bytes": 750
+      },
+      {
+        "_path": "include/xgboost/c_api.h",
+        "path_type": "hardlink",
+        "sha256": "ca46e424d84443c425725436e3864b55d5a57b07ad07b55f365763e466fdb201",
+        "sha256_in_prefix": "ca46e424d84443c425725436e3864b55d5a57b07ad07b55f365763e466fdb201",
+        "size_in_bytes": 21659
+      },
+      {
+        "_path": "include/xgboost/c_api_error.h",
+        "path_type": "hardlink",
+        "sha256": "58955e6e5b6ca0bb16c09c9cc7ceb75ba3f8bb211179eb708773e6a182c6de96",
+        "sha256_in_prefix": "58955e6e5b6ca0bb16c09c9cc7ceb75ba3f8bb211179eb708773e6a182c6de96",
+        "size_in_bytes": 1490
+      },
+      {
+        "_path": "include/xgboost/data.h",
+        "path_type": "hardlink",
+        "sha256": "b82da9e08c3110eeb5f794da47cc70c0b66886409375760ea76df70ea32725a0",
+        "sha256_in_prefix": "b82da9e08c3110eeb5f794da47cc70c0b66886409375760ea76df70ea32725a0",
+        "size_in_bytes": 16533
+      },
+      {
+        "_path": "include/xgboost/feature_map.h",
+        "path_type": "hardlink",
+        "sha256": "dffd2e59c8288fc86a2f39e8c33cf5e2c3bd8d23f15337accf426f9641c4c432",
+        "sha256_in_prefix": "dffd2e59c8288fc86a2f39e8c33cf5e2c3bd8d23f15337accf426f9641c4c432",
+        "size_in_bytes": 2552
+      },
+      {
+        "_path": "include/xgboost/gbm.h",
+        "path_type": "hardlink",
+        "sha256": "be648407260b819891aaa4243d8a468dda9206c2898e233d17a0749a815a0fe0",
+        "sha256_in_prefix": "be648407260b819891aaa4243d8a468dda9206c2898e233d17a0749a815a0fe0",
+        "size_in_bytes": 7370
+      },
+      {
+        "_path": "include/xgboost/learner.h",
+        "path_type": "hardlink",
+        "sha256": "23486f35797d410ab21efa56578cc64fb55af5e7a0e57da5c47b98eaed47943e",
+        "sha256_in_prefix": "23486f35797d410ab21efa56578cc64fb55af5e7a0e57da5c47b98eaed47943e",
+        "size_in_bytes": 8409
+      },
+      {
+        "_path": "include/xgboost/linear_updater.h",
+        "path_type": "hardlink",
+        "sha256": "e82f41c23c1ab4f9f25e784c1bda16816b85dd73020fe5929fd5277140e32ec4",
+        "sha256_in_prefix": "e82f41c23c1ab4f9f25e784c1bda16816b85dd73020fe5929fd5277140e32ec4",
+        "size_in_bytes": 2013
+      },
+      {
+        "_path": "include/xgboost/logging.h",
+        "path_type": "hardlink",
+        "sha256": "de24297f7cea2793fea44862a56562e58b2944f1a6821ae9d981956e4c6922eb",
+        "sha256_in_prefix": "de24297f7cea2793fea44862a56562e58b2944f1a6821ae9d981956e4c6922eb",
+        "size_in_bytes": 5256
+      },
+      {
+        "_path": "include/xgboost/metric.h",
+        "path_type": "hardlink",
+        "sha256": "56f9a64e8f3e91ac22522cd06e548c5cd06af543e3c9511e61095fc567cdafda",
+        "sha256_in_prefix": "56f9a64e8f3e91ac22522cd06e548c5cd06af543e3c9511e61095fc567cdafda",
+        "size_in_bytes": 3067
+      },
+      {
+        "_path": "include/xgboost/objective.h",
+        "path_type": "hardlink",
+        "sha256": "8f082834288303b5ed97f3a541e45c61190790ddfc1293dc1709dc151fce5869",
+        "sha256_in_prefix": "8f082834288303b5ed97f3a541e45c61190790ddfc1293dc1709dc151fce5869",
+        "size_in_bytes": 4008
+      },
+      {
+        "_path": "include/xgboost/predictor.h",
+        "path_type": "hardlink",
+        "sha256": "78c5acf71a605bfbfca6a40d505a44611ba7d5d92f0fea531dd81a351887e18c",
+        "sha256_in_prefix": "78c5acf71a605bfbfca6a40d505a44611ba7d5d92f0fea531dd81a351887e18c",
+        "size_in_bytes": 7782
+      },
+      {
+        "_path": "include/xgboost/rabit/c_api.h",
+        "path_type": "hardlink",
+        "sha256": "8d26daa2f0744b77eb9503a9e5ba85e58ae4553c3f7ba901180129c4e997220e",
+        "sha256_in_prefix": "8d26daa2f0744b77eb9503a9e5ba85e58ae4553c3f7ba901180129c4e997220e",
+        "size_in_bytes": 5841
+      },
+      {
+        "_path": "include/xgboost/rabit/internal/engine.h",
+        "path_type": "hardlink",
+        "sha256": "a7dd923cf83c697868819b74ae2d71348552d5f26fcd63d94ce25293571bcac2",
+        "sha256_in_prefix": "a7dd923cf83c697868819b74ae2d71348552d5f26fcd63d94ce25293571bcac2",
+        "size_in_bytes": 10982
+      },
+      {
+        "_path": "include/xgboost/rabit/internal/io.h",
+        "path_type": "hardlink",
+        "sha256": "c96077ae1e3e68f38922870c86f04e1eb9af59a4c1faeb064d5b2ee5bb0368ee",
+        "sha256_in_prefix": "c96077ae1e3e68f38922870c86f04e1eb9af59a4c1faeb064d5b2ee5bb0368ee",
+        "size_in_bytes": 3174
+      },
+      {
+        "_path": "include/xgboost/rabit/internal/rabit-inl.h",
+        "path_type": "hardlink",
+        "sha256": "c564231297a9baf3503608c5695c1fbb407d1efeeeb8cf54d75c5d8e8d930a61",
+        "sha256_in_prefix": "c564231297a9baf3503608c5695c1fbb407d1efeeeb8cf54d75c5d8e8d930a61",
+        "size_in_bytes": 11179
+      },
+      {
+        "_path": "include/xgboost/rabit/internal/timer.h",
+        "path_type": "hardlink",
+        "sha256": "049a1e895eabd7cd6aea5b64f54d2feb3bdd63ed62c169bec21a83fd8593571d",
+        "sha256_in_prefix": "049a1e895eabd7cd6aea5b64f54d2feb3bdd63ed62c169bec21a83fd8593571d",
+        "size_in_bytes": 1267
+      },
+      {
+        "_path": "include/xgboost/rabit/internal/utils.h",
+        "path_type": "hardlink",
+        "sha256": "704ceb65eb36349f58684f7d44ee17db790bb9022bc9af3e9995aab41e420ee7",
+        "sha256_in_prefix": "704ceb65eb36349f58684f7d44ee17db790bb9022bc9af3e9995aab41e420ee7",
+        "size_in_bytes": 5194
+      },
+      {
+        "_path": "include/xgboost/rabit/rabit.h",
+        "path_type": "hardlink",
+        "sha256": "51cfa3d5e840098f42d1a4ded4d9c8f1539556858d19fef29a3d410a32e69007",
+        "sha256_in_prefix": "51cfa3d5e840098f42d1a4ded4d9c8f1539556858d19fef29a3d410a32e69007",
+        "size_in_bytes": 14733
+      },
+      {
+        "_path": "include/xgboost/rabit/serializable.h",
+        "path_type": "hardlink",
+        "sha256": "033615598d841eff8553f4a583d521b1af10663e8274a9b61faea5668da081a1",
+        "sha256_in_prefix": "033615598d841eff8553f4a583d521b1af10663e8274a9b61faea5668da081a1",
+        "size_in_bytes": 698
+      },
+      {
+        "_path": "include/xgboost/tree_model.h",
+        "path_type": "hardlink",
+        "sha256": "46a733aa74f6687cbc26b09bb188ef2cdfe5ec09917f6fa06a72c3c81169ca88",
+        "sha256_in_prefix": "46a733aa74f6687cbc26b09bb188ef2cdfe5ec09917f6fa06a72c3c81169ca88",
+        "size_in_bytes": 20804
+      },
+      {
+        "_path": "include/xgboost/tree_updater.h",
+        "path_type": "hardlink",
+        "sha256": "d4247dc4cb342f8b6aa2c241a068a4889f323da2cf8b7debbed1ad6ebf1eaa14",
+        "sha256_in_prefix": "d4247dc4cb342f8b6aa2c241a068a4889f323da2cf8b7debbed1ad6ebf1eaa14",
+        "size_in_bytes": 3246
+      },
+      {
+        "_path": "lib/libxgboost.a",
+        "path_type": "hardlink",
+        "sha256": "4edca1af91e32cb573bee9224f6e7827c425aed0d312dd5d0bce75d317f9ca7d",
+        "sha256_in_prefix": "4edca1af91e32cb573bee9224f6e7827c425aed0d312dd5d0bce75d317f9ca7d",
+        "size_in_bytes": 4791496
+      },
+      {
+        "_path": "lib/libxgboost.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/67255c98-4108-4a23-50ed-33dd288c551a/volume/xgboost_1572481444627/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "42582f3e917c704d79519490234fbe1517edf69042ef220b60fbf6531746e080",
+        "sha256_in_prefix": "f0bb377ed3f52a22d59958d31cbf06dcf7e69d0fd761313c5df0f72ea7194fa7",
+        "size_in_bytes": 2392368
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "25d7fdf025379943dbd81fe2c2df0a21b23ec1137dfb7f332f19b427b7996b36",
+  "size": 1266469,
+  "subdir": "osx-64",
+  "timestamp": 1572482093255,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libxgboost-0.90-h0a44026_1.conda",
+  "version": "0.90"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/xgboost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xgboost/cub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xgboost/dmlc-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xgboost/python-package/xgboost/dmlc-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xgboost/python-package/xgboost/rabit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xgboost/rabit" vcs="Git" />
+  </component>
+</project>

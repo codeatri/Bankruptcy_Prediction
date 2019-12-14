@@ -1,0 +1,37 @@
+{
+  "build": "py36ha462648_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libgfortran >=3.0.1,<4.0.0.a0",
+    "numpy-base 1.15.0 py36he97cb71_0",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Users/npatil4/miniconda3/pkgs/numpy-1.15.0-py36ha462648_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.15.0-py36ha462648_0.conda",
+  "legacy_bz2_md5": "30e0c206127a9a716ecbf9fbb1d3a96e",
+  "legacy_bz2_size": 36290,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Users/npatil4/miniconda3/pkgs/numpy-1.15.0-py36ha462648_0",
+    "type": 1
+  },
+  "md5": "23c1bdffb2d9927f03cfecaf6620c6c4",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/npatil4/miniconda3/pkgs/numpy-1.15.0-py36ha462648_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy=1.15.0",
+  "sha256": "993cd496aa10fd12d026d13c29b0427949828c14657cdf926ccb2cfd0f331858",
+  "size": 35052,
+  "subdir": "osx-64",
+  "timestamp": 1532709702814,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.15.0-py36ha462648_0.conda",
+  "version": "1.15.0"
+}
